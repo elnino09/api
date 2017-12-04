@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: elnino
+Version: 0.1.0
+Summary: Rating as a Service component for OpenStack
+Home-page:
+Author: elnino
+Author-email:
+License: UNKNOWN
+Description:
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
